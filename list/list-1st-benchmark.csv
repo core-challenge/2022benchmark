@@ -1,0 +1,11 @@
+benchmark/grid/grid004x004.col,benchmark/grid/grid004x004_01.dat
+benchmark/grid/grid004x004.col,benchmark/grid/grid004x004_02.dat
+benchmark/grid/grid004x004.col,benchmark/grid/grid004x004_03.dat
+benchmark/grid/grid004x004.col,benchmark/grid/grid004x004_04.dat
+benchmark/grid/grid004x004.col,benchmark/grid/grid004x004_05.dat
+benchmark/handcrafted/hc-power-11.col,benchmark/handcrafted/hc-power-11_01.dat
+benchmark/handcrafted/hc-power-12.col,benchmark/handcrafted/hc-power-12_01.dat
+benchmark/handcrafted/hc-square-01.col,benchmark/handcrafted/hc-square-01_01.dat
+benchmark/handcrafted/hc-square-02.col,benchmark/handcrafted/hc-square-02_01.dat
+benchmark/handcrafted/hc-toyno-01.col,benchmark/handcrafted/hc-toyno-01_01.dat
+benchmark/handcrafted/hc-toyyes-01.col,benchmark/handcrafted/hc-toyyes-01_01.dat

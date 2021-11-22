@@ -1,0 +1,27 @@
+c FILE: grid4x4.col
+c DESCRIPTION: 4x4 grid graph
+p 16 24
+e 1 2
+e 1 5
+e 2 3
+e 2 6
+e 3 4
+e 3 7
+e 4 8
+e 5 6
+e 5 9
+e 6 7
+e 6 10
+e 7 8
+e 7 11
+e 8 12
+e 9 10
+e 9 13
+e 10 11
+e 10 14
+e 11 12
+e 11 15
+e 12 16
+e 13 14
+e 14 15
+e 15 16
