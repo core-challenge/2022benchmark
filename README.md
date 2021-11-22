@@ -5,7 +5,7 @@
 
 ## Format of benchmark instances
 
-- See [File Format](https://core-challenge.github.io/2022/#file_format).
+- See [File Format](https://core-challenge.github.io/2022/#file-format).
 - Each instance is provided by 2 files (*.col and *.dat) which are named like **foo.col** and **foo_bar.dat**.
 
 ## The 1st benchmark instances
