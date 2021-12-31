@@ -16,3 +16,11 @@
   - benchmark/handcrafted
   - benchmark/grid
 - You can also use [the full list of the 1st benchmark instances](/list/list-1st-benchmark.csv) (in CSV format).
+
+## The 2nd benchmark instances
+
+- The 2nd benchmark instances should be more difficult than the 1st ones. At least they are larger.
+- You can find those instances in the following directories.
+  - benchmark/grid
+  - benchmark/queen
+- You can also use [the full list of the 2nd benchmark instances](/list/list-2nd-benchmark.csv) (in CSV format).
