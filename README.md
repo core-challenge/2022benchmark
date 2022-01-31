@@ -24,3 +24,20 @@
   - benchmark/grid
   - benchmark/queen
 - You can also use [the full list of the 2nd benchmark instances](/list/list-2nd-benchmark.csv) (in CSV format).
+
+## The 3rd benchmark instances
+
+- The 3rd benchmark instances include various kinds of instances, and 200x200 instances for grid and queen. 
+- You can find those instances in the following directories.
+  - benchmark/sp
+  - benchmark/square
+  - benchmark/power
+  - benchmark/color04
+  - benchmark/grid
+  - benchmark/queen
+- You can also use [the full list of the 3rd benchmark instances](/list/list-3rd-benchmark.csv) (in CSV format).
+
+## All benchmark instances
+
+- You can also use [the full list of all benchmark instances](/list/list-all-benchmark.csv) (in CSV format).
+	- This file is just the concatenation of 1st, 2nd, and 3rd benchmark instances. 
